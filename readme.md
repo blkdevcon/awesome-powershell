@@ -1,4 +1,4 @@
-# Awesome PowerShell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![GitHub branch checks state](https://img.shields.io/github/checks-status/blkdevcon/awesome-powershell/master?color=Green&label=Build&style=for-the-badge)?event=schedule)](https://github.com/blkdevcon/awesome-powershell/actions?query=workflow%3A%22Quality+Assurance%22)
+# Awesome PowerShell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![GitHub branch checks state](https://img.shields.io/github/checks-status/blkdevcon/awesome-powershell/master?color=Green&label=Build&style=for-the-badge?event=schedule)](https://github.com/blkdevcon/awesome-powershell/actions?query=workflow%3A%22Quality+Assurance%22)
 
 [<img src="https://github.com/PowerShell/PowerShell/raw/master/assets/Powershell_256.png" align="right" width="80">](https://msdn.microsoft.com/en-us/powershell/)
 
